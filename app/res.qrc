@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/applications-system.svg</file>
+        <file>images/config.png</file>
+        <file>images/configure.svg</file>
+        <file>images/debug-run.svg</file>
+        <file>images/document-new.svg</file>
+        <file>images/document-open.svg</file>
+        <file>images/document-save-as.svg</file>
+        <file>images/document-save.svg</file>
+        <file>images/edit-copy.svg</file>
+        <file>images/edit-cut.svg</file>
+        <file>images/edit-find-replace.svg</file>
+        <file>images/edit-find.svg</file>
+        <file>images/edit-paste.svg</file>
+        <file>images/edit-redo.svg</file>
+        <file>images/edit-undo.svg</file>
+        <file>images/preferences.png</file>
+        <file>images/query.png</file>
+        <file>images/run-build-clean.svg</file>
+        <file>images/run-build-configure.svg</file>
+        <file>images/run-build-install-root.svg</file>
+        <file>images/run-build.svg</file>
+        <file>images/selected.png</file>
+        <file>images/story-editor.svg</file>
+        <file>images/update.png</file>
+        <file>images/window-close.svg</file>
+        <file>images/applications-development.svgz</file>
+    </qresource>
+</RCC>
